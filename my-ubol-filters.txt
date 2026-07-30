@@ -1,0 +1,13 @@
+atlassian.net##[aria-label*="Improve description"]
+atlassian.net##[aria-label*="Open Confluence live doc prompt"]
+atlassian.net##[data-testid*="ai-agent"]
+atlassian.net##[data-testid*="ai-mate"]
+atlassian.net##[data-testid*="issue.views.issue-base.foundation.status.improve-issue"]
+atlassian.net##[data-testid*="navigation-ai"]
+atlassian.net##[data-testid*="platform-ai"]
+atlassian.net##[data-testid*="rovo"]
+atlassian.net##[data-testid="placeholder-test-id"][class="placeholder-decoration ProseMirror-widget"]
+atlassian.net##div:has(> [aria-label*="Quick comments"])
+atlassian.net##div:has(> [data-testid*="define-button"])
+atlassian.net##div:has(> [data-testid*="platform-ai"])
+atlassian.net##:xpath(//button[@data-vc='loom-button']/../../..)
