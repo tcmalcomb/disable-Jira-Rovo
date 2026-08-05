@@ -1,5 +1,5 @@
 # disable-Jira-Rovo
-Blocks UI elements of Rovo/AI features in Atlassian Jira. Uses Ublock Origin Chrome Extension Filters.
+Blocks UI elements of Rovo/AI features in Atlassian Jira and Confluence. Uses Ublock Origin Chrome Extension Filters. You can achieve the same by importing this list into any ad blocking extension that allows custom filters.
 
 # Setup
 1. Download Ublock Origin Lite from [Chrome Webstore](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh)
