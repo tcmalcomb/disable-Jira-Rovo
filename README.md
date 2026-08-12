@@ -6,5 +6,5 @@ Blocks UI elements of Rovo/AI features in Atlassian Jira and Confluence. Uses Ub
 2. Go to the extension settings Ublock Origin > Settings > Custom Filters
 3. Expand the Import/Export menu
 4. Click Import and Append... 
-5. Select the my-ubol-filters.txt file
+5. Select the my-ubol-filters.txt file (do NOT just copy/paste the txt file contents or the filters will not work)
 6. Enjoy your AI-free Jira experience
